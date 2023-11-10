@@ -13,7 +13,7 @@ The PCCLP API is a groundbreaking protocol designed to enable users to maintain 
 **Key Highlights:**
 - **User-Centric Control**: Users manage their data as they see fit, granting and revoking access to third parties directly from their personal devices, similar to wallet applications.
 - **Blockchain Integration**: The API leverages blockchain's distributed ledger technology for unalterable record-keeping, enhancing trust and transparency in data transactions.
-- **Advanced Cryptography**: Employing both symmetric and asymmetric encryption ensures data is shared securely, with measures for data expiration and access revocation built-in.
+- **Robust Security Measures**: Our platform employs state-of-the-art cryptographic techniques to ensure that data is shared securely. This includes built-in measures for setting data expiration and enabling access revocation, giving users and businesses complete control over their information. 
 - **Modular and Interoperable**: Built to operate across a variety of blockchain networks, the PCCLP API is versatile and ready for future-proof integration with diverse ecosystems and applications.
 - **Sustainable Revenue Model**: The API's structure allows for revenue generation for wallet providers and third-party validators, all while maintaining low operational costs for enhanced scalability.
 - **Compliance and Adaptability**: Designed with regulatory compliance at its core, the protocol is adaptable to a range of global data protection frameworks, ensuring legal integrity across jurisdictions.
